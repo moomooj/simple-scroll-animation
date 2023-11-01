@@ -1,4 +1,4 @@
-# Galaxy Generator by Three.js
+# simple-scroll-animation by Three.js
 
 - vite로 작성하였습니다.
 
